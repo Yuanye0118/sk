@@ -1,0 +1,10 @@
+# 本地运行状态与可能含会话信息的配置
+.claude/
+
+# 长桥运行日志不纳入研究档案
+longbridge.*.log
+
+# 编辑器与系统临时文件
+.DS_Store
+Thumbs.db
+*.tmp
